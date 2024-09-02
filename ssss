@@ -1,0 +1,17 @@
+[33mcommit d314b92eecbc63a65e5b36c4a48064ee4852dc2b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mnewmain[m[33m)[m
+Author: VadymYesipov-sus <vadikyess@gmail.com>
+Date:   Sun Sep 1 21:33:30 2024 +0300
+
+    second commit. added gitignore
+
+[33mcommit eb4c38c680aa1dc413302ce0818ec58d2464cb9f[m[33m ([m[1;31morigin/folderadd[m[33m)[m
+Author: VadymYesipov-sus <vadikyess@gmail.com>
+Date:   Sun Sep 1 20:42:49 2024 +0300
+
+    first commit
+
+[33mcommit d3351f31171150e975bcf4f31d915c0993762870[m
+Author: VadymYesipov-sus <vadikyess@gmail.com>
+Date:   Sun Sep 1 20:36:49 2024 +0300
+
+    Initial commit
